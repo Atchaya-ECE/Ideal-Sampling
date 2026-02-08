@@ -232,7 +232,7 @@ plt.show()
 
 # Output Waveform
 # Impulse Sampling
-<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/75a18ba9-73dc-427d-ad08-b07e9d4093d8" />
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/d8dbbffd-0cc9-4019-97b4-25f767982e5b" />
 
 # Natural Sampling
 <img width="1390" height="989" alt="image" src="https://github.com/user-attachments/assets/b77079a0-c726-451f-adae-df2e0d3756e7" />
