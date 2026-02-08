@@ -1,4 +1,5 @@
 # Ideal, Natural, & Flat-top -Sampling
+
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 
@@ -246,5 +247,5 @@ plt.show()
 ```
 
 # Results
-
+Thus, the construction and reconstruction of Ideal, Natural, and Flat-top sampling were successfully implemented using Python, and the corresponding waveforms were obtained.
 
