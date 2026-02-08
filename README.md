@@ -1,4 +1,4 @@
-# Ideal, Natural, & Flat-top -Sampling
+# Impulse, Natural, & Flat-top -Sampling
 
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
@@ -7,7 +7,7 @@ Write a simple Python program for the construction and reconstruction of ideal, 
 Google collab
 
 # Program
-# Ideal Sampling
+# Impulse Sampling
 ```
 # Impulse Sampling
 
@@ -231,7 +231,7 @@ plt.show()
 ```
 
 # Output Waveform
-# Ideal Sampling
+# Impulse Sampling
 <img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/75a18ba9-73dc-427d-ad08-b07e9d4093d8" />
 
 # Natural Sampling
@@ -241,5 +241,5 @@ plt.show()
 <img width="1398" height="990" alt="image" src="https://github.com/user-attachments/assets/ddb6d45f-3a91-4269-b32b-dd116ac127e2" />
 
 # Results
-Thus, the construction and reconstruction of Ideal, Natural, and Flat-top sampling were successfully implemented using Python, and the corresponding waveforms were obtained.
+Thus, the construction and reconstruction of Impulse, Natural, and Flat-top sampling were successfully implemented using Python, and the corresponding waveforms were obtained.
 
