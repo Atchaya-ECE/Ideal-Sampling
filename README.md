@@ -1,10 +1,13 @@
+# Reg.no : 212224060031
+# Name   : V.Atchaya
+
 # Impulse, Natural, & Flat-top -Sampling
 
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 
 # Tools required
-Google collab
+Computer with Google collab
 
 # Program
 # Impulse Sampling
