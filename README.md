@@ -8,9 +8,8 @@ Write a simple Python program for the construction and reconstruction of ideal, 
 
 # Tools required
    * Personal Computer with Google colab
-
-# 1.1 Impulse Sampling
 # Program
+# Impulse Sampling
 ```
 # Impulse Sampling
 
